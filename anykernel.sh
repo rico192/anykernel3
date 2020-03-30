@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=EverestKernel by ProtoChuz @ GitHub
+kernel.string=PREDATOR-
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,8 +12,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=santoni
 device.name2=Redmi 4x
-device.name3=Redmi Note 7
-device.name4=lavender
+device.name3=Redmi 5
+device.name4=rosy
 supported.versions=
 supported.patchlevels=
 '; } # end properties
